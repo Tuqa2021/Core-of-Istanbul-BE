@@ -1,5 +1,4 @@
-n = input('Enter the int number')
-h = input('Enter the second int number')
+n, h = map(int, input().split())
 ans = 0
 for i in range(1, n+1):
     x = int(input())
