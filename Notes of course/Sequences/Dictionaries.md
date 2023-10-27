@@ -1,0 +1,6 @@
+- **Dictionary properties:** unordered, iterable, mutable, can contain multiple data types
+- Made of key-value pairs
+- Keys must be unique, and can be strings, numbers, or tuples
+- Values can be any type
+- if I convert to set its give me only the keys
+- can we make the value as list or dictionary 

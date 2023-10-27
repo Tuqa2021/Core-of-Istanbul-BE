@@ -1,0 +1,7 @@
+- **Set properties:** unordered, iterable, mutable, can contain multiple data types
+- Made of unique elements (strings, numbers, or tuples)
+- Like dictionaries, but with keys only (no values)
+- doesn't has index
+- union or | that means AUB
+- intersection or & A and B
+- difference or - 
