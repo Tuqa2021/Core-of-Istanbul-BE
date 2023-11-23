@@ -49,3 +49,5 @@ class Bookstore:
             print(f"Sale processed: {quantity} copies of '{book.title}' to {customer.name}")
         else:
             print("Sale could not be processed.")
+    def __repr__(self):
+        return f"Transaction ID: {self.transaction_id}, Book: {self.book.title}, Customer: {self.customer.name}, Quantity: {self.quantity}, Date: {self.date}"
